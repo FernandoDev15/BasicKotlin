@@ -1,6 +1,6 @@
 package empresa
 
-import empresa.Funcionario
+
 
 class Atendente : Funcionario {
 

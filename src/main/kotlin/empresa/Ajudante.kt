@@ -1,6 +1,5 @@
 package empresa
 
-import empresa.Funcionario
 
 class Ajudante : Funcionario {
     override fun receber(salario: Int): Double {

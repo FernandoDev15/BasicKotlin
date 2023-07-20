@@ -1,8 +1,6 @@
 package empresa
 
-import empresa.Ajudante
-import empresa.Atendente
-import empresa.Funcionario
+
 
 object Empresa {
     fun qualFuncao(func: Funcionario): Double = when (func) {
